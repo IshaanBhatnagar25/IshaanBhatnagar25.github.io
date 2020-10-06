@@ -1,0 +1,23 @@
+# Setup
+title:               'I Speak here (‾◡`)'
+tagline:             ''
+description:         'Ishaan Bhatnagar'
+url:                 https://ishaanbhatnagar25.github.io/
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+relative_permalinks: false
+
+# About/contact
+author:
+  name:              Ishaan Bhatnagar
+  url:               https://twitter.com/IshaanB25
+  email:             ishaanbhatnagar881@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
