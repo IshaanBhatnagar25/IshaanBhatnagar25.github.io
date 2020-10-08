@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content
+snippet: So how I made this website using Jekyll
 ---
 
 
