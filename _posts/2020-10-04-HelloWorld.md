@@ -15,7 +15,7 @@ Thats a snippet from one of the [blog post](https://www.capella.edu/blogs/cublog
 
 ### So my Portfolio
 
-After checking out my great portfolios, it got really confusing :sweat_smile:
+After checking out my great portfolios, it got really confusing 😆
 Finally I decided, I want something simple that will actually convey what I am up to.
 
 So I finally found this amazing theam *Lanyon*.
