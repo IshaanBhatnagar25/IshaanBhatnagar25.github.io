@@ -11,7 +11,7 @@ Is it really that important?
 
 >Portfolios are a great way to demonstrate the competencies you would list on a resume or talk about in an interview — they allow you to show and not just tell. During a job search, the portfolio showcases your work to potential employers. It presents evidence of your relevant skills and abilities. 
 
-Thats a snippet from one of the [blog post]() of Capella University. Have a look at the complete post! Its really insightful.
+Thats a snippet from one of the [blog post](https://www.capella.edu/blogs/cublog/why-a-portfolio-is-important-for-your-career/) of Capella University. Have a look at the complete post! Its really insightful.
 
 ### So my Portfolio
 
