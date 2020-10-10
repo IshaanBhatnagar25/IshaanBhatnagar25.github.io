@@ -1,25 +1,49 @@
 ---
 layout: post
 title: Hello World 
-snippet: So how I came up with this Blog based Portfolio
+snippet: The First Blog
 ---
 
-Hey there! 
-So if you are a final year student or a professional, you must have heard this term *Portfolio*.
-So what is it?
-Is it really that important?
-
->Portfolios are a great way to demonstrate the competencies you would list on a resume or talk about in an interview — they allow you to show and not just tell. During a job search, the portfolio showcases your work to potential employers. It presents evidence of your relevant skills and abilities. 
-
-Thats a snippet from one of the [blog post](https://www.capella.edu/blogs/cublog/why-a-portfolio-is-important-for-your-career/) of Capella University. Have a look at the complete post! Its really insightful.
+Hey there! &nbsp;
+<p>
+So finally I have decided to come up with a Blogpost-based Portfolio. &nbsp;
+Being the first blogpost of mine, I am really confused about what to write and how to write.😉
+&nbsp;
+So lets get to the backgroud first.
+I was looking to make a portfolio of mine. After checking out my great portfolios, it got really confusing. 😆 
+Some of the portfolios actually gave me the kick to make something of mine.
 
 ### So my Portfolio
-
-After checking out my great portfolios, it got really confusing. 😆 
 Finally I decided, I want something simple that will actually convey what I am up to.
+M planning to stuff that I am doing or I wanna do. Thats the plan 😆.
 
-So I finally found this amazing theam *Lanyon*.
+I have created this portfolio using Jekyll. 
+>Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under the open source MIT license.
 
-The implementation of the tech is a story for another day.
+Checkout their website [here](https://jekyllrb.com/)
 
+### Fun fact of the day:
+While using the terminal, you must have used:
+```console
+foo@user:~ $ls
+```
+
+And I am pretty sure that you might have written $sl instead of $ls command
+```console
+foo@user:~ $sl
+```
+So for the next time, before running a $sl, just install this amazing package 'sl'
+```console
+foo@user:~ $sudo apt-get install sl
+```
+No run a 
+```console
+foo@user:~ $sl
+```
+
+Let me know what you get in the shell window in the comments section.  &nbsp;
+You will be amazed!&nbsp;
+&nbsp;
+Lets catch up in the next post.&nbsp;
 Till then O/
+</p>
