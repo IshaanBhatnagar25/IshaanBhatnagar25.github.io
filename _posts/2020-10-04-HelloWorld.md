@@ -6,7 +6,7 @@ snippet: The First Blog
 
 Hey there! 
 <p>
-So finally I have decided to come up with a Blogpost-based Portfolio. 
+So I have decided to come up with a Blogpost-based Portfolio. 
 Being the first blogpost of mine, I am really confused about what to write and how to write.😉
 </p>
 
@@ -16,7 +16,7 @@ I was looking to make a portfolio of mine. After checking out my great portfolio
 Some of the portfolios actually gave me the kick to make something of mine.
 </p>
 
-### So my Portfolio
+### So the Portfolio
 <p>
 Finally I decided, I want something simple that will actually convey what I am up to.
 M planning to stuff that I am doing or I wanna do. Thats the plan 😆.
