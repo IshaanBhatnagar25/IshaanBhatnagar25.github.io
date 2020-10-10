@@ -2,6 +2,7 @@
 layout: post
 title: Hello World 
 snippet: The First Blog
+comments: true
 ---
 
 Hey there! 
