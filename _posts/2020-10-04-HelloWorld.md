@@ -8,19 +8,20 @@ Hey there! &nbsp;
 <p>
 So finally I have decided to come up with a Blogpost-based Portfolio. &nbsp;
 Being the first blogpost of mine, I am really confused about what to write and how to write.😉
+</p>
 &nbsp;
-So lets get to the backgroud first.
-I was looking to make a portfolio of mine. After checking out my great portfolios, it got really confusing. 😆 
-Some of the portfolios actually gave me the kick to make something of mine.
+So lets get to the backgroud first.&nbsp;
+I was looking to make a portfolio of mine. After checking out my great portfolios, it got really confusing. 😆 &nbsp;
+Some of the portfolios actually gave me the kick to make something of mine.&nbsp;
 
 ### So my Portfolio
-Finally I decided, I want something simple that will actually convey what I am up to.
-M planning to stuff that I am doing or I wanna do. Thats the plan 😆.
+Finally I decided, I want something simple that will actually convey what I am up to.&nbsp;
+M planning to stuff that I am doing or I wanna do. Thats the plan 😆.&nbsp;
 
-I have created this portfolio using Jekyll. 
+I have created this portfolio using Jekyll. &nbsp;
 >Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under the open source MIT license.
 
-Checkout their website [here](https://jekyllrb.com/)
+Checkout their website [here](https://jekyllrb.com/)&nbsp;
 
 ### Fun fact of the day:
 While using the terminal, you must have used:
@@ -42,8 +43,7 @@ foo@user:~ $sl
 ```
 
 Let me know what you get in the shell window in the comments section.  &nbsp;
-You will be amazed!&nbsp;
+You will be amazed for sure!&nbsp;
 &nbsp;
 Lets catch up in the next post.&nbsp;
 Till then O/
-</p>
