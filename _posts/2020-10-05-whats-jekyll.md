@@ -12,9 +12,9 @@ comments: true
 It's an immensely useful tool.
 
 
-Jekyll does what you tell it to do — no more, no less. It doesn't try to outsmart users by making bold assumptions, nor does it burden them with needless complexity and configuration. Put simply, Jekyll gets out of your way and allows you to concentrate on what truly matters: your content.
+Jekyll does what you tell it to do — no more, no less. It doesn't try to outsmart users by making bold assumptions, nor does it burden them with needless complexity and configuration. Put simply, Jekyll gets out of your way and allows you to concentrate on what truly matters: <strong>your content.</strong>
 
-See: https://jekyllrb.com/philosophy
+See: [philosophy](https://jekyllrb.com/philosophy)
 
 ## Getting Started
 
