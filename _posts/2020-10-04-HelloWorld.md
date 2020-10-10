@@ -7,12 +7,12 @@ snippet: The First Blog
 Hey there! 
 <p>
 So I have decided to come up with a Blogpost-based Portfolio. 
-Being the first blogpost of mine, I am really confused about what to write and how to write.😉
+Being the first blogpost of mine, I am really confused about what to write and how to write. :sweat_smile:
 </p>
 
 <p>
 So lets get to the backgroud first.
-I was looking to make a portfolio of mine. After checking out my great portfolios, it got really confusing. 😆 
+I was looking to make a portfolio of mine. After checking out my great portfolios, it got really confusing. 😆 </br>
 Some of the portfolios actually gave me the kick to make something of mine.
 </p>
 
