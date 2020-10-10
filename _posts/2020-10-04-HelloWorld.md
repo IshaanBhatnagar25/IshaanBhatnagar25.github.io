@@ -5,6 +5,9 @@ snippet: The First Blog
 comments: true
 ---
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0" nonce="G8ZFaccH"></script>
+
 Hey there! 
 <p>
 So I have decided to come up with a Blogpost-based Portfolio. 
@@ -48,3 +51,5 @@ You will be amazed for sure!
 </p>
 <p>Lets catch up in the next post.</p>
 <p>Till then O/</p>
+
+<div class="fb-comments" data-href="https://ishaanbhatnagar25.github.io/2020/10/04/HelloWorld/" data-numposts="100" data-width=""></div>
