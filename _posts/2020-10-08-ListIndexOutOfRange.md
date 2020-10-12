@@ -16,9 +16,9 @@ Hey there!
 First of all the daily progress/goals section:
 <ol>
 <li>Setup the <strong>About</strong> section of the portfolio</li>
-<li>Update the readme section of my [Github Profile](https://github.com/IshaanBhatnagar25)</li>
+<li>Update the readme section of my <a href="https://github.com/IshaanBhatnagar25">Github Profile</a></li>
 <li>Design a workflow in github to fetch my top 5 blogs and show them on the ReadMe section.</li>
-<li>Saperate Bolgs on the implementation of topics mentioned above. 😆<li>
+<li>Saperate Bolgs on the implementation of topics mentioned above. 😆</li>
 </ol>
 </p>
 
@@ -28,25 +28,25 @@ First of all the daily progress/goals section:
 
 <p>I'm pretty sure, many time would be the answer.</p>
 
-<p>So I faced an issue today where I was running a loop like this:</p>
+<p>So I faced an issue today where I was running a loop like this:</p><br>
 
 ```python
 for i in range(0,len(my_list)):
     stuff_done_here
 ```
 
-<p>And in the loop, I was deleting certain entries from the original list <code>my_list</code>. So during the iterations, the length of the list actually got reduced and hence, I was getting this <code>IndexError: list index out of range</code> error. Though it seems to be a straight-forward issue, yet it took me about an hour error to find the root-cause.😆</p>
+<p><br>And in the loop, I was deleting certain entries from the original list <code>my_list</code>. So during the iterations, the length of the list actually got reduced and hence, I was getting this <br><code>IndexError: list index out of range</code> error.<br> Though it seems to be a straight-forward issue, yet it took me about an hour error to find the root-cause.😆</p><br>
 
-### The FIX:
+### The FIX:<br>
 
 ```python
 for index,item in enumerate(my_list):
     stuff_done_here
 ```
 
-<p><code>Enumerate()</code> method adds a counter to an iterable and returns it in a form of enumerate object. This enumerate object can then be used directly in for loops or be converted into a list of tuples using <code>list()</code> method.</p>
+<p><br>blog3fix<code>Enumerate()</code> method adds a counter to an iterable and returns it in a form of enumerate object. This enumerate object can then be used directly in for loops or be converted into a list of tuples using <code>list()</code> method.</p>
 
-<p>Find out more on this [here](https://www.geeksforgeeks.org/enumerate-in-python/)</p>
+<p>Find out more on this </p>[here](https://www.geeksforgeeks.org/enumerate-in-python/)
 
 <p>Lets catch up in the next post.</p>
 <p>Till then O/</p>
