@@ -6,7 +6,7 @@ comments: true
 ---
 
 Hey there! 
-<p>From today onwards, I will log my daily progress in the blog. I recently read an amazing blog of a friend of mine that had a <strong>daily progess section</strong>. The motive behind:</p>
+<p>From today onwards, I will log my daily progress/goals in the blog. I recently read an amazing blog of a friend of mine that had a <strong>daily progess section</strong>. The motive behind:</p>
 
 >If I'll put it in public, I'll do it, may be not now, but certainly I will. 
 
@@ -18,7 +18,7 @@ First of all the daily progress/goals section:
 <li>Setup the <strong>About</strong> section of the portfolio</li>
 <li>Update the readme section of my <a href="https://github.com/IshaanBhatnagar25">Github Profile</a></li>
 <li>Design a workflow in github to fetch my top 5 blogs and show them on the ReadMe section.</li>
-<li>Saperate Bolgs on the implementation of topics mentioned above. 😆</li>
+<li>Saperate Blogs on the implementation of topics mentioned above. 😆</li>
 </ol>
 </p>
 
