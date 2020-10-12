@@ -22,20 +22,18 @@ First of all the daily progress/goals section:
 </ol>
 </p>
 
-<p>Okay! Well now coming to the title, <code>IndexError: list index out of range</code></p>
-<p>So how often you encouter this 😆</p>
-<p>Or how often you end up sending hours</p>
+<p>Okay! Well now coming to the title, <code>IndexError: list index out of range</code>.So how often you encouter this 😆. Or how often you end up spending hours on something like this.</p>
 
 <p>I'm pretty sure, many time would be the answer.</p>
 
-<p>So I faced an issue today where I was running a loop like this:</p><br>
+<p>Actually, I faced an issue today where I was running a loop like this:</p>
 
 ```python
 for i in range(0,len(my_list)):
     stuff_done_here
 ```
 
-<p><br>And in the loop, I was deleting certain entries from the original list <code>my_list</code>. So during the iterations, the length of the list actually got reduced and hence, I was getting this <br><code>IndexError: list index out of range</code> error.<br> Though it seems to be a straight-forward issue, yet it took me about an hour error to find the root-cause.😆</p><br>
+<p><br>And in the loop, I was deleting certain entries from the original list <code>my_list</code>. So during the iterations, the length of the list actually got reduced and hence, I was getting this: <br><code>IndexError: list index out of range</code><br> Though it seems to be a straight-forward issue, yet it took me about an hour error to find the root-cause.😆</p>
 
 ### The FIX:<br>
 
@@ -44,9 +42,9 @@ for index,item in enumerate(my_list):
     stuff_done_here
 ```
 
-<p><br>blog3fix<code>Enumerate()</code> method adds a counter to an iterable and returns it in a form of enumerate object. This enumerate object can then be used directly in for loops or be converted into a list of tuples using <code>list()</code> method.</p>
+<p><br><code>Enumerate()</code> method adds a counter to an iterable and returns it in a form of enumerate object. This enumerate object can then be used directly in for loops or be converted into a list of tuples using <code>list()</code> method.</p>
 
-<p>Find out more on this </p>[here](https://www.geeksforgeeks.org/enumerate-in-python/)
+<p>Find out more on this <a href="https://www.geeksforgeeks.org/enumerate-in-python/">here</a></p>
 
 <p>Lets catch up in the next post.</p>
 <p>Till then O/</p>
