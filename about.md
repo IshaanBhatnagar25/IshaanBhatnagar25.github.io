@@ -3,28 +3,16 @@ layout: page
 title: About
 ---
 
+<p>Hi, This is Ishaan Bhatnagar</p>
+
 <p class="message">
-  Hey there! I solve problems. Generally with computers, math and algorithms. Often with teams of collaborators. 
-  I also like data in all its forms.
+  I solve problems. Generally with computers, math and algorithms. Often with teams of collaborators. 
+  I also like data in all its forms.<br>
+  I have a command over the language and can speak fluently and without any hesitation.<br>
+  I love to grasp new concepts quickly and implement them efficiently. I am a team player. An open work environment is an ideal workplace where I can exhibit the best out of me. <br>
+  I have a never-give-up attitude towards the problem that I face. I have an understanding of implementing the concepts.  
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+<p>You can find out my latest resume [here](https://ishaanbhatnagar25.github.io/assets/IshaanResume.pdf)</p>
 
 Thanks for reading!
