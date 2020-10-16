@@ -13,6 +13,6 @@ title: About
   I have a never-give-up attitude towards the problem that I face. I have an understanding of implementing the concepts.  
 </p>
 
-<p>You can find out my latest resume [here](https://ishaanbhatnagar25.github.io/assets/IshaanResume.pdf)</p>
+<p>You can find out my latest resume <a href="https://ishaanbhatnagar25.github.io/assets/IshaanResume.pdf">here</a></p>
 
 Thanks for reading!
