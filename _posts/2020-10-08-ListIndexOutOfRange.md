@@ -18,7 +18,7 @@ First of all the daily progress/goals section:
 <li>Setup the <strong>About</strong> section of the portfolio</li>
 <li>Update the readme section of my <a href="https://github.com/IshaanBhatnagar25">Github Profile</a></li>
 <li>Design a workflow in github to fetch my top 5 blogs and show them on the ReadMe section.</li>
-<li>Saperate Blogs on the implementation of topics mentioned above. 😆</li>
+<li>Separate Blogs on the implementation of topics mentioned above. 😆</li>
 </ol>
 </p>
 
