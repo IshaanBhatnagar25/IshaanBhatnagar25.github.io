@@ -6,7 +6,7 @@ comments: true
 ---
 
 Hey there! 
-<p>From today onwards, I will log my daily progress/goals in the blog. I recently read an amazing blog of a friend of mine that had a <strong>daily progess section</strong>. The motive behind:</p>
+<p>From today onwards, I will log my daily progress/goals in the blog. I recently read an amazing blog of a friend of mine that had a <strong>daily progress section</strong>. The motive behind:</p>
 
 >If I'll put it in public, I'll do it, may be not now, but certainly I will. 
 
@@ -22,7 +22,7 @@ First of all the daily progress/goals section:
 </ol>
 </p>
 
-<p>Okay! Well now coming to the title, <code>IndexError: list index out of range</code>.So how often you encouter this 😆. Or how often you end up spending hours on something like this.</p>
+<p>Okay! Well now coming to the title, <code>IndexError: list index out of range</code>.So how often you encounter this 😆. Or how often you end up spending hours on something like this.</p>
 
 <p>I'm pretty sure, many time would be the answer.</p>
 
