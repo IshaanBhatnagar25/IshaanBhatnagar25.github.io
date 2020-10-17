@@ -27,7 +27,7 @@ First of all, the daily updates and progress:
 
 ## Vercel:
 
->Vercel is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. It enables developers to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.
+> Vercel is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. It enables developers to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.
 <br>
 Here is the [documentation](https://vercel.com/docs)
 
