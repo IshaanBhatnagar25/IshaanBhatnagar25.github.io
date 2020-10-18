@@ -5,14 +5,26 @@ title: About
 
 <p>Hi, This is Ishaan Bhatnagar</p>
 
-<p class="message">
-  I solve problems. Generally with computers, math and algorithms. Often with teams of collaborators. 
-  I also like data in all its forms.<br>
-  I have a command over the language and can speak fluently and without any hesitation.<br>
-  I love to grasp new concepts quickly and implement them efficiently. I am a team player. An open work environment is an ideal workplace where I can exhibit the best out of me. <br>
-  I have a never-give-up attitude towards the problem that I face. I have an understanding of implementing the concepts.  
-</p>
+<sub> And I'm in my process of learning everyday.</sub>
 
-<p>You can find out my latest resume <a href="https://ishaanbhatnagar25.github.io/assets/IshaanResume.pdf">here</a></p>
+<sub>To give a little excerpt from the learnings so far, here is who I'm:</sub>
+- <sub> A Data enthusiast, having experience working with big-data using Hadoop Ecosystem.</sub> 
+- <sub> I'm using Python, Pyspark, Java, Shell-scripting, Pandas, Numpy, Data-Visualisation Tools, Various Hadoop Ecosystem components like Hive, Impala, Oziee and other depending upon the requirements. </sub> 
+- <sub> Having a year long experience as a Data Engineer, I’ve been writing frameworks to fully automate the dataflows and to carry-out various data-maintainance activities in HDFS.</sub>
+- <sub>  As a summer intern at Jio,I developed a utility to monitor the servers of Reliance Jio. I've learnt:</sub>
+    - <sub>How to use Maven</sub>
+    - <sub>How to schedule the jobs to send ping to servers and check their staus periodically..</sub>
+    - <sub>How to manage multi-cluster (micro-services) applications in an On-Premise Deployment setup. Further expanding to Cluster (and other included resources) monitoring, health-checks and alerts.</sub>
+
+<sub>You could checkout my resume [here](https://ishaanbhatnagar25.github.io/assets/IshaanResume.pdf).</sub>
+
+---
+
+<sub>Find me at other places:</sub>
+<p class="social-icons">
+  <a href="https://www.linkedin.com/in/ishaan-b-33609795/"><i class="fab fa-linkedin-in fa-2x"></i></a>
+  <a href="https://twitter.com/IshaanB25"><i class="fab fa-twitter fa-2x"></i></a>
+  <a href="https://github.com/IshaanBhatnagar25"><i class="fab fa-github fa-2x"></i></a>  
+</p>
 
 Thanks for reading!
