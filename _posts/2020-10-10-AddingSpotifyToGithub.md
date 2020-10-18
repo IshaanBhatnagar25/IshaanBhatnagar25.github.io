@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So!!! What's Playing Now (^-^)
+title: So! What's Playing Now ^-^)
 snippet: Adding Spotify Currently Playing song to Github Profile 
 comments: true
 ---
@@ -21,5 +21,7 @@ First of all, the daily updates and progress:
 <li>Separate Blogs on the implementation of topics mentioned above. 😆</li>
 </ol>
 </p>
+
+> I'm still working on this. I'll be updating this blog with how to add your currently playing Spotify Song at the Github Readme Section.
 
 Till then O/
