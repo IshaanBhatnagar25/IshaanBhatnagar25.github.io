@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<p>Hi, This is Ishaan Bhatnagar</p>
+<p><strong>Hi, This is Ishaan Bhatnagar</strong></p>
 
 <sub> And I'm in my process of learning everyday.</sub>
 
@@ -13,7 +13,8 @@ title: About
 - <sub> Having a year long experience as a Data Engineer, I’ve been writing frameworks to fully automate the dataflows and to carry-out various data-maintainance activities in HDFS.</sub>
 - <sub>  As a summer intern at Jio,I developed a utility to monitor the servers of Reliance Jio. I've learnt:</sub>
     - <sub>How to use Maven</sub>
-    - <sub>How to schedule the jobs to send ping to servers and check their staus periodically..</sub>
+    - <sub>How to schedule the jobs to send ping to servers and check their status periodically.</sub>
+    - <sub>How to build a GUI to show the <strong>Server Health Reports</strong> in real-time.</sub>
     - <sub>How to manage multi-cluster (micro-services) applications in an On-Premise Deployment setup. Further expanding to Cluster (and other included resources) monitoring, health-checks and alerts.</sub>
 
 <sub>You could checkout my resume [here](https://ishaanbhatnagar25.github.io/assets/IshaanResume.pdf).</sub>
