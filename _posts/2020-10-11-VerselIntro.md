@@ -10,7 +10,7 @@ Hi there!
 <p>So I was updating the README section of my Github profile and I found <a href="https://github.com/anuraghazra/github-readme-stats">this</a> amazing repository to add my <strong>Github Stats</strong>. Thanks to <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for this great repository.</p>
 
 ### But! But! But!
-<p>After I implemented the logic to showcase the stats, it just froze. The README section was show only a link to the <a href="https://github.com/anuraghazra/github-readme-stats">repository]</a>.</p>
+<p>After I implemented the logic to showcase the stats, it just froze. The README section was show only a link to the <a href="https://github.com/anuraghazra/github-readme-stats">repository</a>.</p>
 
 > Here comes the saviour in the picture! Vercel!
 
@@ -25,7 +25,7 @@ Here is the [documentation](https://vercel.com/docs)
 
 ---
 
-<p>So I had to deploy my forked [repository]() on Vercel to create a specific Versel instance for my application. </p>
+<p>So I had to deploy my forked repository on Vercel to create a specific Versel instance for my application. </p>
 
 ### Deployment on Vercel:
 <p>
@@ -43,16 +43,16 @@ Deployment on Vercel is a straight-forward process. Below are quick points to De
 <p>
 Below are the snapshots from the doploment of my instance:<br>
 <code>Starting the deployment</code>
-<img src='https://github.com/IshaanBhatnagar25/assets/2020-10-11_VercelDeployment.png'>
+<img src='{{ site.baseurl }}/assets/2020-10-11_VercelDeployment.png' alt="Lynis_report"/>
 <code>Voila</code>
-<img src='https://github.com/IshaanBhatnagar25/assets/2020-10-11_Vercel_Deployed.png'>
+<img src='{{ site.baseurl }}/assets/2020-10-11_Vercel_Deployed.png' alt="Lynis_report"/>
 </p>
 
 ---
 
 ### Finally:
 Here is how the Stats appear on the Github Profile:
-<img src='https://github.com/IshaanBhatnagar25/assets/2020-10-11_Stats.png'>
+<img src='{{ site.baseurl }}/assets/2020-10-11_Stats.png' alt="Lynis_report"/>
 
 > Yeah! Improving these stats is a goal of mine.
 
