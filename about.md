@@ -5,7 +5,7 @@ title: About
 
 <p><strong>Hi, This is Ishaan Bhatnagar</strong></p>
 
-<sub> And I'm in my process of learning everyday.</sub>
+<sub> I'm in my process of learning everyday.</sub>
 
 <sub>To give a little excerpt from the learnings so far, here is who I'm:</sub>
 - <sub> A Data enthusiast, having experience working with big-data using Hadoop Ecosystem.</sub> 
