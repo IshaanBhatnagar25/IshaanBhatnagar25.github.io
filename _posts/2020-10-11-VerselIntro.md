@@ -41,7 +41,7 @@ Deployment on Vercel is a straight-forward process. Below are quick points to De
 > Personal Access Token: You might need to create a Personal Access Token from your Github Profile to authenticate Github from Vercel at the go. To create a PAT, Goto Settings -> Developers Setting -> Personal Access Token -> Generate PAT. Then the generated PAT can be added as an Environmental Variable in the Vercal App.
 
 <p>
-Below are the snapshots from the doploment of my instance:<br>
+Below are the snapshots from the deploment of my instance:<br>
 <code>Starting the deployment</code>
 <img src='{{ site.baseurl }}/assets/2020-10-11_VercelDeployment.png' alt="Lynis_report"/>
 <code>Voila</code>
