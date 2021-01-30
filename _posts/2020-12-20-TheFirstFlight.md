@@ -35,12 +35,13 @@ Hi there!
 I had an appointment for 5.15 PM IST for the exam. I checked-in at around 4.45 PM IST. Due to the Covid-19 pandemic, Pearson Vue has slightly changed the overall process. Below is the check-in process:
 <ul>
 <li>Once you register for any AZ certification, you recieve a confirmation mail with all the details.</li>
-<li>In that mail, there is a link to Test Your System. Ensure to do that before exam day</li>
-<li>On the exam day, Click on the Check-in link mentioned in the confirmation mail to launch check-in window</li>
+<li>In that mail, there is a link to Test Your System. Ensure to do that before exam day.</li>
+<li>On the exam day, Click on the Check-in link mentioned in the confirmation mail to launch check-in window.</li>
 <li>Download the OnVue Utility for Exam.</li>
 <li>Capture images of yourself, your identity proof and your surroundings and proceede further. You can use your laptop camera or moblie camera to do that.</li>
 <li>On submitting all the images, it will start a call with the Pearson agent who will verify your identity and other images and ask you to show your surroundings.</li>
 <li>On verifying the details, they will release the exam for you and disconnect the call. However, your recording will be on all the time and you can communicate with them through the chat window.</li>
+<li>Make sure to sit an isolated room, unintrupted during the exam.</li>
 </ul>
 </p>
 
