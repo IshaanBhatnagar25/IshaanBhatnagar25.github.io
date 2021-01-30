@@ -48,11 +48,13 @@ I had an appointment for 5.15 PM IST for the exam. I checked-in at around 4.45 P
 <p>Since I was appearing for such exam for the first time, I learnt some lessons. I hope these will be helpful for anyone who is planning to apprear for any AZ certification.
 </p>
 
-> Checkin atleast 30 mins before exam since that process takes time.
-> My Wifi stopped working mid of the exam. So I had to connect my system with my mobile hotspot. You can keep you mobile hotspot on in case your main connection goes down. The system will automatically connects to the secondary network in that case.
-> If your network sucks during the exam, don't panic. The exam gets paused sometime after getting disconnected from the network. You can start from where you left. Your time also pauses if you faces any network issue. But make sure to have backup, because I not sure how much time it gives before disconnecting us.
-> Make sure to capture clear pictures of your identity proof. They can ask you to re-do the entire check-in process if they find the image is not clear. This is what happened with me.
-> During the exam, it asks for your expertee in each topic. You can rate yourself accordingly. The main point here is, The Higher you rate yourself, more difficult will be the questions in the exam.
+<p><ol>
+<li> Checkin atleast 30 mins before exam since that process takes time.</li>
+<li> My Wifi stopped working mid of the exam. So I had to connect my system with my mobile hotspot. You can keep you mobile hotspot on in case your main connection goes down. The system will automatically connects to the secondary network in that case.</li>
+<li> If your network sucks during the exam, don't panic. The exam gets paused sometime after getting disconnected from the network. You can start from where you left. Your time also pauses if you faces any network issue. But make sure to have backup, because I not sure how much time it gives before disconnecting us.</li>
+<li> Make sure to capture clear pictures of your identity proof. They can ask you to re-do the entire check-in process if they find the image is not clear. This is what happened with me.</li>
+<li> During the exam, it asks for your expertee in each topic. You can rate yourself accordingly. The main point here is, The Higher you rate yourself, more difficult will be the questions in the exam.</li>
+</ol></p>
 
 <p>After the check-in process, I got 37 questions total out of which I had to correctly answer atleast as many questions so that I get more than 700 points out of a total of 1000 points. Yeah! I was able to do so.  </p>
 
