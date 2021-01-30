@@ -9,13 +9,9 @@ Hi there!
 
 <p>Finally, today I have cleared the AZ900-Azure Fundamentals Certification.</p>
 
->They say-Cloud is the future. But yeah, its already here and if we won't upgrade, we will be left here and others will fly to the <strong>cloud</strong>.
-
-<p>Believe me or not, but there is a great perk of working in an organization like TCS, you get targets and yes, the best part, you get a lot of opportunities and push to achieve them. One of the target was to do some external certification. After having a discussion with my mentor <strong>Sumit</strong>. I decided to choose this track and plan for AZ900.</p>
-
 ### AZ900-Microsoft Azure Fundamentals
 
-<p>This exam is for begineers like me who are starting to explore what the cloud is and how stuff works over there. Below is the high-level syllabus of the exam as of Dec 2020:
+<p>This exam is for beginners like me who are starting to explore what the cloud is and how stuff works over there. Below is the high-level syllabus of the exam as of Dec 2020:
 <ul>
 <li>Describe cloud concepts (20-25%)</li>
 <li>Describe core Azure services (15-20%)</li>
