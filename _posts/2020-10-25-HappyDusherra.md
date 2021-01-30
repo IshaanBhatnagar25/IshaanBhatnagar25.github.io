@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Dusherra 2020!
-snippet: May this festival marks the beginning of Covid-19
+snippet: May this festival marks the end of Covid-19
 comments: false
 ---
 
