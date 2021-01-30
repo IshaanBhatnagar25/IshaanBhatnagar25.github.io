@@ -24,7 +24,7 @@ Hi there!
 
 [Here](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) are the complete details about the same.
 
-### The Exam Experience
+### The Exam Process:
 
 <p>I scheduled my exam for Dec 20,2020 with Pearson VUE. The exam duration is 90 minutes. But if you are giving it online, like me, you have to check-in atleast 30 minutes prior to the exam appointment. So I scheduled my exam for Dec 20. Yes I am mentioning this again, I know 😆.
 
@@ -41,7 +41,7 @@ I had an appointment for 5.15 PM IST for the exam. I checked-in at around 4.45 P
 </ul>
 </p>
 
-### My Exam Exprerience
+### My Exam Exprerience:
 <p>Since I was appearing for such exam for the first time, I learnt some lessons. I hope these will be helpful for anyone who is planning to apprear for any AZ certification.
 </p>
 
@@ -55,9 +55,9 @@ I had an appointment for 5.15 PM IST for the exam. I checked-in at around 4.45 P
 
 <p>After the check-in process, I got 37 questions total out of which I had to correctly answer atleast as many questions so that I get more than 700 points out of a total of 1000 points. Yeah! I was able to do so.  </p>
 
-### The Prepration:
+### The Preparation:
 
-<p>The resource materials provided by Microsoft are sufficient for the prepration. Also there are many resources available online that gives an idea on how the questions will be like in the actual exam. There are many prepratory courses on Udemy as well. I reffered the MS Docs majorly for my prepration.</p>
+<p>The resource materials provided by Microsoft are sufficient for the preparation. Also there are many resources available online that gives an idea on how the questions will be like in the actual exam. There are many preparatory courses on Udemy as well. I reffered the MS Docs majorly for my preparation.</p>
 
 Hope you find this information useful.
 In case of any query, send it to [me](mailto: ishaanbhatnagar881@gmail.com?subject=AZ900Query)
