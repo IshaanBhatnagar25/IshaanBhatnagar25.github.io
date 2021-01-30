@@ -13,4 +13,4 @@ Hi there!
 
 Lets catch-up in the next post.
 
-Till then O/
+Till then, bbye O/
