@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The First Flight! Cracking the Fundamentals!
+title: The First Flight!
 snippet: Experience of clearing AZ900.
 comments: false
 ---
