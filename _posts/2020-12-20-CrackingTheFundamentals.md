@@ -11,7 +11,7 @@ Hi there!
 
 >They say-Cloud is the future. But yeah, its already here and if we won't upgrade, we will be left here and others will fly to the <strong>cloud</strong>.
 
-<p>Believe me or not, but there is a great perk of working in an organization like TCS, you get targets and yes, the best part, you get a lot of opportunities and push to achieve them. One of the target was to do some external certification. After having a discussion with my mentor <strong>Sumit</strong> I decided to choose this track and plan for AZ900.</p>
+<p>Believe me or not, but there is a great perk of working in an organization like TCS, you get targets and yes, the best part, you get a lot of opportunities and push to achieve them. One of the target was to do some external certification. After having a discussion with my mentor <strong>Sumit</strong>. I decided to choose this track and plan for AZ900.</p>
 
 ### AZ900-Microsoft Azure Fundamentals
 
