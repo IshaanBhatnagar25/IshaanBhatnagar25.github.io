@@ -15,11 +15,11 @@ Hi there!
 
 <p>Everyone will agree on this:</p>
 
-> No one had thaught that they would get this much of time to specd with their families at home if this would have not happened. Many of my senoirs and I have not thaught that we would get this much time with family after start a professional career. That the biggest positive I can think of.
+> No one had thaught that they would get this much of time to spend with their families at home if this would have not happened. Many of my senoirs and I have not thaught that we would get this much time with family after start a professional career. That the biggest positive I can think of.
 
 Let me know yours, will be glad to know.
 
-Sign-off for 2020!
+Signing-off for 2020!
 
 Lets catch-up in the next post, next year.
 
