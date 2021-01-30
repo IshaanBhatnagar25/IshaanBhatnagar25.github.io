@@ -4,7 +4,7 @@ tagline:             ''
 description:         'Ishaan Bhatnagar'
 url:                 https://ishaanbhatnagar25.github.io
 baseurl:             ''
-#paginate:            5
+paginate:            500000
 permalink:           pretty
 relative_permalinks: false
 
