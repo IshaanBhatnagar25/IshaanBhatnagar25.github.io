@@ -27,20 +27,20 @@ Hi there!
 
 ### Precision:
 > How much the model is Right when it says it is Right!
-<code>Precision = (TP)/(TP + TN)</code>
+<p><code>Precision = (TP)/(TP + TN)</code></p>
 
 ### Total Positive Rate/Recall/Senstivity:
 > % of Positive Instances out of Total Positive Instances
-<code> TPR = (TP)/(TP + FN)</code>
+<p><code> TPR = (TP)/(TP + FN)</code></p>
 
 ### Specificity:
 > % of Negetive Instances out of Total Negetive Instances
-<code> TPR = (TN)/(TN + FP)</code>
+<p><code> TPR = (TN)/(TN + FP)</code></p>
 
 ### F1 Score:
 > It is the Harmonic Mean of Precision and Recall.
 > The higher the F1 Score, the better it is.
-<img src='{{ site.baseurl }}/assets/2021-02-07_F1Score.png' alt="ConfusionMatrix"/>
+<p><img src='{{ site.baseurl }}/assets/2021-02-07_F1Score.png' alt="ConfusionMatrix"/></p>
 
 ### PR Curve:
 >It is the curve between precision and recall for various threshold values.
