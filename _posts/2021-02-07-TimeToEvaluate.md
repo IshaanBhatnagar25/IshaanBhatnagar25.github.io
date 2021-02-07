@@ -35,7 +35,7 @@ Hi there!
 
 ### Specificity:
 > % of Negetive Instances out of Total Negetive Instances
-<p><code> TPR = (TN)/(TN + FP)</code></p>
+<p><code> Specificity = (TN)/(TN + FP)</code></p>
 
 ### F1 Score:
 > It is the Harmonic Mean of Precision and Recall.
