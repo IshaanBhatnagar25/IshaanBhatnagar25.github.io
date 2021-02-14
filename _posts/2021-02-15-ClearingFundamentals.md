@@ -68,6 +68,8 @@ To prepare for the exam, docs provide all the topics in 1 place. Once you are co
 
 > Hope that this will help you if you are preprating for these certifications!
 
+In case of any query, reachout to [me](mailto: ishaanbhatnagar881@gmail.com?subject=AZ-Certifications)
+
 Lets catch-up in the next post.
 
 Till then O/

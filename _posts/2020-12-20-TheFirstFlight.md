@@ -57,7 +57,9 @@ I had an appointment for 5.15 PM IST for the exam. I checked-in at around 4.45 P
 
 ### The Preparation:
 
-<p>The resource materials provided by Microsoft are sufficient for the preparation. Also there are many resources available online that gives an idea on how the questions will be like in the actual exam. There are many preparatory courses on Udemy as well. I referred the [MS Docs](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) majorly for my preparation.</p>
+<p>The resource materials provided by Microsoft are sufficient for the preparation. Also there are many resources available online that gives an idea on how the questions will be like in the actual exam. There are many preparatory courses on Udemy as well.</p> 
+
+I referred the [MS Docs](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) majorly for my preparation.
 
 Hope you find this information useful.
 In case of any query, send it to [me](mailto: ishaanbhatnagar881@gmail.com?subject=AZ900Query)
