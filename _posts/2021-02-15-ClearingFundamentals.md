@@ -11,7 +11,7 @@ Hi there!
 
 ## Getting the Fundamentals Cleared:
 <p>
-For most of Azure Associate level certificaiton, there main 3 pre-requists, AZ900, DP900, AI900.
+For most of Azure Associate level certificaiton, there are main 3 pre-requists, AZ900, DP900, AI900.
 The Certifications are required if you are planning to take any Associate or Expert level path for Azure.
 </p>
 
